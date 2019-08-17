@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="arrTabTitles">
+        <item>@string/latest</item>
+        <item>@string/text</item>
+        <item>@string/pic</item>
+        <item>@string/video</item>
+    </string-array>
+
+</resources>
+
+
+
+
+
+
+

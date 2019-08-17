@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#EEB422</item>
+        <item name="colorPrimaryDark">#EEB422</item>
+        <item name="colorAccent">#EEB422</item>
+        <item name="android:actionMenuTextAppearance">@style/MenuTextAppearance</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#EEB422</item>
+        <item name="colorPrimaryDark">#EEB422</item>
+        <item name="colorAccent">#EEB422</item>
+        <item name="android:actionMenuTextAppearance">@style/MenuTextAppearance</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MenuTextAppearance">
+        <item name="android:textSize">@dimen/big_font</item>
+    </style>
+
+</resources>

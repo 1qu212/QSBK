@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">糗事百科</string>
+    <string name="qiushibaike"><i><b>糗事百科</b></i></string>
+    <string name="latest">最新</string>
+    <string name="pic">图片</string>
+    <string name="video">视频</string>
+    <string name="text">文本</string>
+    <string name="coolweather">酷欧天气</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="copy_text">复制文本</string>
+</resources>
